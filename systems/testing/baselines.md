@@ -7,9 +7,8 @@ raised errors then compiling the tests.
 
 ### How to make a baseline
 
-1. Make a new file: ` touch tests/cases/compiler/overloadFunctionsNotEqualToGenerics.ts`. Add some TypeScript to
+Make a new file: ` touch tests/cases/compiler/overloadFunctionsNotEqualToGenerics.ts`. Add some TypeScript to
    it.
-2. d
 
 ### How to amend a baseline
 
